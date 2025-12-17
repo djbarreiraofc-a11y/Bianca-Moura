@@ -21,12 +21,12 @@ const services = [
   },
   {
     name: 'Mega Volume',
-    price: 'R$ 220,00',
+    price: 'R$ 180,00',
     image: '/images/whatsapp_image_2025-12-16_at_20.45.06_(1).jpeg',
   },
   {
     name: 'Mega Volume',
-    price: 'R$ 220,00',
+    price: 'R$ 180,00',
     image: '/images/whatsapp_image_2025-12-16_at_20.45.06_(2).jpeg',
   },
   {
