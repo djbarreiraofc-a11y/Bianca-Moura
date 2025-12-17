@@ -6,10 +6,10 @@ const procedures = [
   { name: 'Volume Fox', price: 'R$165,00' },
   { name: 'Volume Fox Marrom', price: 'R$165,00' },
   { name: 'Volume Europeu', price: 'R$165,00' },
-  { name: 'Mega Volume', price: 'R$220,00' },
+  { name: 'Mega Volume', price: 'R$180,00' },
   { name: 'Volume Express', price: 'R$165,00' },
-  { name: 'Manutenções', price: 'R$130,00' },
-  { name: 'Manutenção Mega Volume', price: 'R$180,00' },
+  { name: 'Manutenções', price: 'R$110,00' },
+  { name: 'Manutenção Mega Volume', price: 'R$120,00' },
 ];
 
 export default function BookingForm() {
