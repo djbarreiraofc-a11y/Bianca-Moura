@@ -5,8 +5,9 @@ export default function Hero() {
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div className="relative">
             <div className="absolute inset-0 bg-gradient-to-br from-[#C9A87C]/20 to-[#FFB5A0]/20 rounded-full blur-3xl"></div>
+
             <img
-              src="whatsapp_image_2025-12-16_at_20.45.04_(2).jpeg"
+              src="/images/whatsapp_image_2025-12-16_at_20.45.04_(2).jpeg"
               alt="Bianca Moura - Lash Designer"
               className="relative rounded-2xl shadow-2xl w-full h-auto object-cover hover-sway"
             />
