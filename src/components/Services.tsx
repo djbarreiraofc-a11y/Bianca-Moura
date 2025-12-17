@@ -17,7 +17,7 @@ const services = [
   {
     name: 'Volume Europeu',
     price: 'R$ 165,00',
-    image: '/images/whatsapp_image_2025-12-16_at_20.45.04_(1).jpeg',
+    image: 'whatsapp_image_2025-12-16_at_20.45.04.jpeg',
   },
   {
     name: 'Mega Volume',
