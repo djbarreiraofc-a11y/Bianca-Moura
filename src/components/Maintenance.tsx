@@ -19,7 +19,7 @@ export default function Maintenance() {
                 <h3 className="text-xl font-light text-[#8B7355] mb-2">
                   Manutenções dos Volumes
                 </h3>
-                <p className="text-2xl font-medium text-[#2D5F3F]">R$ 130,00</p>
+                <p className="text-2xl font-medium text-[#2D5F3F]">R$ 110,00</p>
                 <p className="text-sm text-[#8B7355]/70 mt-2">
                   Volume Brasileiro, Fox, Fox Marrom, Europeu e Express
                 </p>
@@ -29,7 +29,7 @@ export default function Maintenance() {
                 <h3 className="text-xl font-light text-[#8B7355] mb-2">
                   Manutenção Mega Volume
                 </h3>
-                <p className="text-2xl font-medium text-[#2D5F3F]">R$ 180,00</p>
+                <p className="text-2xl font-medium text-[#2D5F3F]">R$ 120,00</p>
                 <p className="text-sm text-[#8B7355]/70 mt-2">
                   Cuidado especial para máximo volume
                 </p>
